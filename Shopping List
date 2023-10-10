@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset= "utf-8">
+        <title>Shopping List</title>
+    </head>
+    <body>
+    
+    <h1>Shopping List</h1>
+    
+    <h2>Dairy</h2>
+    
+        <ul> 
+            <li>milk</li>
+            <a href= https://en.wikipedia.org/wiki/Milk>
+                <img src= "https://upload.wikimedia.org/wikipedia/commons/a/a5/Glass_of_Milk_%2833657535532%29.jpg" alt="glass of milk" width=150/>
+            </a>
+            <li>cheese</li>
+            <a href= https://en.wikipedia.org/wiki/Emmental_cheese>
+                <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Emmentaler_Premier_Cru.jpg/1200px-Emmentaler_Premier_Cru.jpg" alt="triangular cut of emmental cheese" width=150/>
+            </a>
+            <li>yogurt</li>
+            <a href= https://www.meijer.com/shopping/product/chobani-vanilla-non-fat-greek-yogurt-32oz/89470001014.html?cmpid=SEM_LIA_All_Meijer_Products:General:all%5Cfood%2C_beverages_%26_tobacco:GOOGLE&gclid=EAIaIQobChMI_vTEjeKt9QIVmRXUAR1kvwD0EAQYDSABEgJNE_D_BwE&bvstate=pg:2/ct:r>
+                <img src= "https://www.meijer.com/content/dam/meijer/product/0894/70/0010/14/0894700010144_0_A1C1_0600.jpg" alt="container of vanilla yogurt" width=150/>
+            </a>
+            <li>butter</li>
+            <a href= https://simple.wikipedia.org/wiki/Butter>
+                <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NCI_butter.jpg/640px-NCI_butter.jpg" alt="stick of butter with knife" width=150/> 
+            </a>
+            <li>ice cream</li>
+            <a href= https://en.wikipedia.org/wiki/Ice_cream_cone>
+                <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Soft_Ice_cream.jpg/135px-Soft_Ice_cream.jpg" alt="swirly cone of vanilla ice cream" height=150/>
+            </a>
+        </ul>
+    
+    <h2>Vegetables</h2>
+    
+        <ul>
+            <li>carrots</li>
+            <a href= https://en.wikipedia.org/wiki/Carrot>
+                <img src= "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg" alt="pile of carrots" height=150/>
+            </a>
+            <li> peas</li>
+            <a href= https://simple.wikipedia.org/wiki/Pea>
+                <img src= "https://upload.wikimedia.org/wikipedia/commons/5/5b/NCI_peas_in_pod.jpg" alt="peas in a pod" width=150/>
+            </a>
+            <li>broccoli</li>
+            <a href= https://en.m.wikipedia.org/wiki/File:Brocoli_02.jpg>
+                <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brocoli_02.jpg" alt="head of brocccoli" width=150/>
+            </a>
+            <li>lettuce</li>
+            <a href= https://en.wikipedia.org/wiki/Lettuce_club>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Iceberg1.jpg/640px-Iceberg1.jpg" alt="head of lettuce" width=150/>
+            </a>
+            <li>celery</li> 
+            <a href= https://en.wikipedia.org/wiki/Celery_%28software%29>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="small animated piece of celery" width=150/>
+            </a>
+        </ul>
+        
+    <h2>Fruits</h2>
+        
+        <ul>
+            <li>watermelon</li>
+            <a href=https://en.wikipedia.org/wiki/Watermelon>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Watermelon_seedless.jpg/220px-Watermelon_seedless.jpg" alt="watermelon sliced in half two show the two insides" width=150/>
+            </a>
+            <li>avocado</li>
+            <a href=https://en.wikipedia.org/wiki/Avocado>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hass_avocado_-white_background.jpg/220px-Hass_avocado_-white_background.jpg" alt="two full avocados" width=150/>
+            </a>
+            <li>grapes</li>
+            <a href=https://en.wikipedia.org/wiki/Grape>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Grapes_in_the_Philippines_1.jpg/270px-Grapes_in_the_Philippines_1.jpg" alt="bunch of grapes on a vine" width=150/>
+            </a>
+            <li>canteloupe</li>
+            <a href=https://en.wikipedia.org/wiki/File:Cantaloupe.jpg>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cantaloupe.jpg" alt="full canteloupe with a slice in front" width=150/>
+            </a>
+            <li>apples</li>
+            <a href=https://en.wikipedia.org/wiki/Apple>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/The_SugarBee_Apple_now_grown_in_Washington_State.jpg/240px-The_SugarBee_Apple_now_grown_in_Washington_State.jpg" alt="singular red apple" width=150/>
+            </a>
+         </ul>
+        
+    <h2>Grains</h2>
+        
+        <ul>
+            <li>bread</li>
+            <a href=https://en.wikipedia.org/wiki/White_bread>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wei%C3%9Fbrot-1.jpg" alt="half a loaf of white bread" width=150/>
+            </a>
+            <li>rice</li> 
+            <a href=https://en.wikipedia.org/wiki/Rice>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rice_p1160004.jpg/200px-Rice_p1160004.jpg" alt="grains of rice" width=150/>
+            </a>
+            <li>pasta</li>
+            <a href=https://en.wikipedia.org/wiki/Penne>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Pennelisce_closeup.png" alt="two pieces of penne pasta" width=150/>
+            </a>
+            <li>cereal</li>
+            <a href=https://en.wikipedia.org/wiki/Breakfast_cereal>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Froot-Loops-Cereal-Bowl.jpg/220px-Froot-Loops-Cereal-Bowl.jpg" alt="bowl of froot loops with milk" width=150/>
+            </a>
+            <li>oatmeal</li>
+            <a href=https://en.wikipedia.org/wiki/Rolled_oats>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Rolled_oats.jpg" alt="spoon of uncooked oats" width=150/>
+            </a>
+        </ul>
+        
+    <h2>Protein</h2>
+        
+        <ul>
+            <li>eggs</li>
+            <a href=https://simple.wikipedia.org/wiki/Egg_%28food%29>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/White_chicken_egg_square.jpg" alt="singular white egg" width=150/>
+            </a>
+            <li>nuts</li>
+            <a href=https://en.wikipedia.org/wiki/List_of_culinary_nuts>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mixed_nuts_small_white2.jpg/640px-Mixed_nuts_small_white2.jpg" alt="bowl of assorted nuts" width=150/>
+            </a>
+            <li>beans</li>
+            <a href=https://en.wikipedia.org/wiki/Kidney_bean>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Red_Rajma_BNC.jpg" alt="pile o kidney beans" width=150/>
+            </a>
+            <li>chicken</li>
+            <a href=https://en.wikipedia.org/wiki/Chicken_nugget>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Chicken_Nuggets.jpg/640px-Chicken_Nuggets.jpg" alt="pile of chicken nuggets" width=150/>
+            </a>
+            <li>fish</li>
+            <a href=https://en.wikipedia.org/wiki/Salmon_as_food>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Salmon_Fish.JPG/220px-Salmon_Fish.JPG" alt="rows of salmon" width=150/>
+            </a>
+        </ul>
+    </body>
+</html>
+                
